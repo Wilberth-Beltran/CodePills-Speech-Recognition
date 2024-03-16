@@ -1,0 +1,16 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+.Crud{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* 100% del viewport height */
+    background-color: #ffffff; /* Color de fondo de ejemplo */
+}
